@@ -8,7 +8,7 @@ AutoUpdate=registry
 PublishPort=4533:4533/tcp
 UserNS=keep-id
 Volume=navidrome-data:/data:Z
-Volume=%h/Music:/music:z
+Volume=%h/Music:/music:Z
 EnvironmentFile=%h/navidrome/.env
 
 
